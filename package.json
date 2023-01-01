@@ -1,0 +1,26 @@
+{
+  "name": "restrunbe",
+  "version": "1.0.0",
+  "description": "Running application written using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brlom/RestRunBE.git"
+  },
+  "author": "brlom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brlom/RestRunBE/issues"
+  },
+  "homepage": "https://github.com/Brlom/RestRunBE#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "chai": "^4.3.7",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}

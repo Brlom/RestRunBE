@@ -1,2 +1,2 @@
 # RestRunBE
-Running application written using node.js
+Running application: written and tested using node.js, express, axios, mocha, chai
